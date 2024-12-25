@@ -1,0 +1,19 @@
+body {
+    margin: 0 auto;
+    font-family: ms pgothic;
+    font-size: 15px;
+	text-shadow: 0 0 0px, 0 0 3px grey;
+    line-height: 17px;
+    background-image: url(./resources/gingham1.png);
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.dates {
+    padding: 5px;
+	overflow: auto;
+    font-size:13px;
+    line-height:20px;
+    letter-spacing:1px;
+    background-color:white;
+}
